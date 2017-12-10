@@ -22,6 +22,7 @@ void setup() {
   //title = 0;
   // creates third dimension using OpenGL
   size(1080, 720, P3D);
+  frameRate(144);
   zAxis = constrain(zAxis, 200, 800);
   // creates blank array to store fractals
   fractals = new ArrayList();
