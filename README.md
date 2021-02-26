@@ -3,4 +3,4 @@ This a processing program that creates fractals and allows the user to explore t
 This won second place at the BPS Hour of Code 2017 Competition in 3D Modeling
 
 ## Examples
-![Image of Example 1](https://github.com/liben002/randomFractals/tree/master/resources/images/Example1.png)
+![Image of Example 1](./resources/images/Example1.png)
